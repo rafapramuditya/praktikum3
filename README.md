@@ -9,7 +9,7 @@ print()
 print('X')
 print('Y')
 print('Z')
-![Gambar1](gambar1/png)
+![Gambar1](gambar/gambar1.png)
 
 Penggunaan Seperator
 
@@ -19,7 +19,7 @@ print(w, x, y, z, sep=',')
 print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
-![Gambar2](gambar1/png)
+![Gambar1](gambar/gambar2.png)
 
 String Format
 
@@ -37,6 +37,7 @@ print(7, 10**7)
 print(8, 10**8)
 print(9, 10**9)
 print(10, 10**10)
+![Gambar1](gambar/gambar5.png)
 
 String Format 2
 
@@ -51,64 +52,64 @@ print('{0:>3} {1:>16}'.format(0, 10**7))
 print('{0:>3} {1:>16}'.format(0, 10**8))
 print('{0:>3} {1:>16}'.format(0, 10**9))
 print('{0:>3} {1:>16}'.format(0, 10**10))
+![Gambar1](gambar/gambar6.png)
 
 Hasil Latihan 1
 
+![Gambar1](gambar/gambar7.png)
+
+
 Latihan 2
+
 Input Variable
 Penggunaan python untuk menginput nilai variabel dengan cara
 
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
+![Gambar1](gambar/gambar8.png)
 
 Cetak Variable
 Mencetak nilai kedua variabel ketika sudah di input
 
 print("variable a=",a)
 print("variable b=",b)
+![Gambar1](gambar/gambar9.png)
 
 Penggabungan Variable
 Penggabungan kedua nilai Variable
 
 print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+![Gambar1](gambar/gambar10.png)
 
 Input Variable 2
 Penggunaan python untuk menginput kedua variable
 
 a=int(a)
 b=int(b)
+![Gambar1](gambar/gambar11.png)
 
 Konversi Nilai Variable
 Mencetak kembali hasil mengkonversi nilai kedua variabel
 
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
+![Gambar1](gambar/gambar12.png)
 
 Hasil Latihan 2
 
 Latihan 3 Menggunakan String Format untuk membuat Belah Ketupat
+![Gambar1](gambar/gambar13.png)
 
 Latihan 4 Luas Lingkaran
-Flowchart untuk mencari Luas Lingkaran
+Flowchart untuk mencari Luas dan keliling Lingkaran
+![Gambar1](gambar/gambar14.png)
 
-Membuat Program untuk Mencari Luas Lingkaran
-Rumus Luas Lingkaran adalah phirr atau phi*r²
+praktikum 3
+![Gambar1](gambar/gambar15.png)
 
-print('Menghitung luas lingakaran')
-print('==============================')
+hasil praktikum 3 yang telah saya lakukan yaitu:
 
-Menginput Nilai Jari-Jari
-Menginput jari jari untuk mencari luas lingkaran
-
-r = int(input('masukan jari-jari lingkaran: '))
-
-Mendeklarasikan Nilai Phi
-Nilai Phi adalah 3,14 atau 22/7
-
-phi = 3.14
-L = phi * (r * r)
-
-Mencetak Hasil Luas Lingkaran
-print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
-
-Hasil Latihan 4 Luas Lingkaran
+- dapat memehami algoritma lingkaran yang diprotes dalam python
+- dapat menjalankan bagaimana langkah-langkah membuat algoritma lingkaran pada python
+- dapat mebuat flowchart algoritma dengan baik dan benar
+- dapat mengoperasikan langsung algoritma lingkaran pada python
