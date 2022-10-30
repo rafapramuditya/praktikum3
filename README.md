@@ -4,4 +4,4 @@
 ### penggunaan end
 #### penggunaan end pada pythone berfungsi untuk memberi parameter (pemisah) antara quotes yang kita buat
 
-![gambar](gambar1/
+![gambar](gambar1/png)
